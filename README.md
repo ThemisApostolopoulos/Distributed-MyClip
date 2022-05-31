@@ -1,8 +1,9 @@
 # MyClip
 
-MyClip is an Android application written in Java that exchanges videos between two users on the standards of well-known social media (Instagram, TikTok).
+MyClip is an Android app written in Java that exchanges videos between two users , based on tik tok and instagram
 It is an application in which every user can create a channel, upload videos, subscribe to other channels and hashtags and see
 videos that contain topics to which they are subscribed.
+It was created for the assignment in the subject "Distributed Systems"
 
 The application has 3 main tabs:
 
